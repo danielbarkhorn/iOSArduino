@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		109262D11E31D12D007DE619 /* Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 109262D01E31D12D007DE619 /* Logo.png */; };
 		653219311E028A5500657932 /* icon_no_background.png in Resources */ = {isa = PBXBuildFile; fileRef = FA36BB9B1B7CE40E0079C257 /* icon_no_background.png */; };
-		653219331E028A9300657932 /* Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 653219321E028A9300657932 /* Logo.png */; };
 		653219351E028CD300657932 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 653219341E028CD300657932 /* LaunchScreen.storyboard */; };
 		FA5AB96B1B77A30F007443C8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5AB96A1B77A30F007443C8 /* AppDelegate.swift */; };
 		FA5AB9701B77A30F007443C8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA5AB96E1B77A30F007443C8 /* Main.storyboard */; };
@@ -32,7 +32,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		653219321E028A9300657932 /* Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Logo.png; path = ../../../../../Dropbox/Screenshots/Logo.png; sourceTree = "<group>"; };
+		109262D01E31D12D007DE619 /* Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Logo.png; sourceTree = "<group>"; };
 		653219341E028CD300657932 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA36BB9B1B7CE40E0079C257 /* icon_no_background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_no_background.png; sourceTree = "<group>"; };
 		FA5AB9651B77A30E007443C8 /* Serial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Serial.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -104,7 +104,7 @@
 				FA5AB96E1B77A30F007443C8 /* Main.storyboard */,
 				FA5AB9711B77A30F007443C8 /* Images.xcassets */,
 				FA36BB9B1B7CE40E0079C257 /* icon_no_background.png */,
-				653219321E028A9300657932 /* Logo.png */,
+				109262D01E31D12D007DE619 /* Logo.png */,
 				FA5AB9681B77A30E007443C8 /* Supporting Files */,
 				FA62F58A1B8B85B2000479B6 /* Serial-Bridging-Header.h */,
 			);
@@ -228,7 +228,7 @@
 			files = (
 				FA5AB9701B77A30F007443C8 /* Main.storyboard in Resources */,
 				653219311E028A5500657932 /* icon_no_background.png in Resources */,
-				653219331E028A9300657932 /* Logo.png in Resources */,
+				109262D11E31D12D007DE619 /* Logo.png in Resources */,
 				653219351E028CD300657932 /* LaunchScreen.storyboard in Resources */,
 				FA5AB9721B77A30F007443C8 /* Images.xcassets in Resources */,
 			);
